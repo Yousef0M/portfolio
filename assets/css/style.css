@@ -506,6 +506,15 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
+.tech-text {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-500);
+  line-height: 1.6;
+}
+
+.tech-text  { margin-top: 10px; }
+
 
 
 /**
@@ -826,7 +835,8 @@ main {
 .timeline-text {
   color: var(--light-gray);
   font-weight: var(--fw-300);
-  line-height: 1.6;
+  line-height: 1.7;
+  margin-bottom: 5px;
 }
 
 
